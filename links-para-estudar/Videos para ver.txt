@@ -1,0 +1,25 @@
+Videos para ver:
+
+https://www.youtube.com/watch?v=qNLKAY6VZvo - comandos linux basicos
+
+https://www.youtube.com/watch?v=G7_yfwcirOA - o que é MPLS REDES
+
+https://www.youtube.com/watch?v=BbnDmeNojFA - como reiventar p computador do zero
+
+https://www.youtube.com/watch?v=vH_UleBGRpw&list=PL1d_HUKMz4Rm3Tqv8sMXSaR3J4rYdzj0e&index=6 - Redes curso (estranho mas bom)
+
+https://www.youtube.com/watch?v=CCHZ_06DoEA&t=1s - sistemas operacionais univisp
+
+https://www.youtube.com/watch?v=1csTmCZj-io - Redes de computadores univesp
+
+https://www.youtube.com/watch?v=GdD5Ou1uPI4 - flip flop
+
+https://www.youtube.com/watch?v=U_zqS2E5DL0 - circuito eletricos o que é modelagem de projeto
+
+https://www.youtube.com/watch?v=Li566DDH_4Y&list=PLxI8Can9yAHeWyA5-3n4TrLZMa1YgaBAS&index=8 circuito logicos - univesp
+
+https://www.youtube.com/watch?v=SiDgSJJ32jQ&t=23s - expressoes booleanas
+
+https://www.youtube.com/watch?v=3BH0A6dWhj0 - ponteiros em C
+
+https://www.youtube.com/watch?v=ZhYiNrI2OLU - ponteiros C

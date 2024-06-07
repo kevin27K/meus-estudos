@@ -1,0 +1,51 @@
+Geral
+
+
+VARIAVEIS DE AMBIENTE
+o que são e o que da para fazer com variaveis de ambiente?
+como configurar? onde fica?
+
+.............................................................
+CHMOD
+o que é chmod?
+como usar?
+
+.............................................................
+FSTAB
+
+o que é fstab e como configurar.
+onde ele fica?
+................................................................
+
+como faço para atualizar os repositorios?
+como esse processo funciona por baixo dos panos?
+onde fica os arquivos para conferir ou configurar?
+como configurar ?
+
+o que é esse pacote libncurses5:i386?
+
+como faço para saber quais pacotes tenho, onde eles ficam e como saber sobre o que eles são?
+
+
+.............................................................
+.............................................................
+Linux
+como descompactar um um zip ou um rar?
+o que é .tar .gz ?
+
+o que é /opt/ ?
+
+o que é bin ? (vejo bin como arquivo e tem o diretorio no linux bin)
+
+
+
+Comando linux
+
+tar 
+-xzf
+
+o que é dpkg?
+
+o que é a flag -i?
+
+

@@ -1,0 +1,25 @@
+		..........BEM VINDO AO DIRETORIO /MEUS-ESTUDOS/ ..........
+
+Esse arquivos descreve os objetivos desse diretorios e seus sub diretorios.
+toda alteração feita no diretorio como adicionar ou remover documentos ou diretorios, devem
+ser documentado nesse arquivo LEIA-ME.txt.
+Deverá acrescentar no fluxo da pasta, adicionar os diretorios adicionados.
+
+
+Esse Diretório é sobre meus estudos, aqui é possivel navegar entre os diretorios:
+
+ /Projetos/
+ 
+ /link-para/estudar/
+ 
+ ........................
+ 
+ EXPLICANDO OS DIRETORIOS
+ 
+ /Projetos/ - Esse diretorio é sobre tanto projetos de estudo como exercicios, como ideias de usar ou criar ferramentas para auxiliar meus estudos principalmente.
+ 
+ /link-para-estudar/ - Esse diretorio é sobre links que encontro de cursos, videos ou qualquer coisa que seja conteudo para estudar.
+ 
+ .................................
+
+
