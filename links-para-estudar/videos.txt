@@ -1,10 +1,146 @@
 
 
+..........................................................
 
+
+
+
+......................................................
+
+Curso completo de JS
+
+https://www.youtube.com/watch?v=EerdGm-ehJQ
+
+.........................................................
+
+Criando 30 projetos usando html css js, responsive
+
+https://www.youtube.com/watch?v=NfvtQ2p5QG4
+
+........................................................
+Hacker etical com linux
+
+https://www.youtube.com/watch?v=lZAoFs75_cs
+
+.................................................
+
+criando um api do zero com node.js e BD
+
+https://www.youtube.com/watch?v=PyrMT0GA3sE
+
+.....................................................
+
+Iniciando com flutter
+programando o basico / Widgets / Navigation / User Input / UI
+
+https://www.youtube.com/watch?v=HQ_ytw58tC4
+
+....................................................	
+Rede de computadores
+
+https://www.youtube.com/watch?v=qiQR5rTSshw
+
+...................................................
+
+Tecnicas de animações com css, transições e mais....
+
+https://www.youtube.com/watch?v=vqXLGX0szIQ
+
+......................................................
+
+Clean code tdd 
+
+https://www.youtube.com/watch?v=IuDj2UYwf1E
+
+......................................................
+Linux System ADM
+
+https://www.youtube.com/watch?v=UCr04qIB7uc
+
+.........................................................
+
+Linux para iniciantes - 7 horas de curso
+
+https://www.youtube.com/watch?v=wBp0Rb-ZJak
+
+..........................................................
+
+Designer system para iniciantes
+
+https://www.youtube.com/watch?v=m8Icp_Cid5o
+
+........................................................
+
+Dicas importante GIT
+
+https://www.youtube.com/watch?v=aolI_Rz0ZqY
+
+........................................................
+
+50 comandos linux  - 5 horas de curso
+
+https://www.youtube.com/watch?v=ZtqBQ68cfJc
+
+........................................................
+
+Aied Cursos - Português
+
+https://www.youtube.com/@AIEDPortugues/playlists
+
+........................................................
+
+Explicando a estrutura de arquivos do linux
+
+https://www.youtube.com/watch?v=HbgzrKJvDRw
+
+
+.......................................................
+
+introdução ao linux
+
+https://www.youtube.com/watch?v=sWbUDq4S6Y8
+
+....................................................
+
+Bash Command line - Curso 3 horas
+
+https://www.youtube.com/watch?v=2PGnYjbYuUo
+
+.......................................................
+
+CMD - Curso 3horas
+
+https://www.youtube.com/watch?v=qnXe1gecux8
+
+.......................................................
+
+Curso de C e OOP - 18horas de curso
+
+https://www.youtube.com/watch?v=PaPN51Mm5qQ
+
+.......................................................
+
+
+Sistemas operacionais - curso 4:40 horas
+
+https://www.youtube.com/watch?v=dOiA2nNJpc0
+
+.......................................................
+
+Web Exploitation - Curso de 9 horas
+
+https://www.youtube.com/watch?v=ik2p4Rz4QzM
+
+.......................................................
+
+Linux Server - Curso de 5 horas
+
+https://www.youtube.com/watch?v=WMy3OzvBWc0
+
+.......................................................
 canal de ciencia da computação, ingles.
+
 https://www.youtube.com/@MyCS1
-
-
 
 .......................................................
 
