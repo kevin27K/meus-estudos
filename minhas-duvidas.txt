@@ -1,4 +1,4 @@
-Geral
+sGeral
 
 
 VARIAVEIS DE AMBIENTE

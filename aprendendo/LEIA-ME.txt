@@ -1,0 +1,23 @@
+		..........BEM VINDO AO DIRETORIO /APRENDENDO/ ..........
+
+Esse arquivos descreve os objetivos desse diretorios e seus sub-diretorios.
+Dentro de todo sub-diretorio deverá ter um documento, (normalmento com nome de LEIA-ME.txt)
+que tambem descreve sobre o proprio diretorio e seus sub-diretorios
+
+Toda alteração feita no diretorio como adicionar ou remover documentos ou diretorios, devem
+ser documentado nesse arquivo LEIA-ME.txt.
+Deverá acrescentar no fluxo da pasta, adicionar os diretorios adicionados.
+
+
+Esse Diretório é sobre o anotações e documentações que irei fazer sobre cada assunto, separando os assuntos por diretorio, aqui é possivel navegar entre os diretorios:
+
+ /extensao-browser/
+ 
+ ........................
+ 
+ EXPLICANDO OS DIRETORIOS
+ 
+/extensao-browser/ - Esse diretorio é onde irei documentar meu aprendizado sobre extensão de browser. 
+ 
+ .................................
+

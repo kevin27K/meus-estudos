@@ -1,0 +1,88 @@
+			APRENDENDO SOBRE EXTENSÕES
+			
+Estou seguindo a documentação 
+
+	+++++MDN Web Docs, da Mozilla +++++
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API
+
+
+Navegando pela pagina encontrei um sobre os comandos da API. 
+WebExtension APIs ---
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts#webextension_apis
+
+Aqui mostra o CONTEUDO DOS SCRIPTS ---
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_scripts
+
+Tambem encontrei algo sobre permissoes que talves seja necessario pedir ao usuarios
+PERMISSOES ---
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/permissions
+
+Esse é um Polyfill que a Mozilla fez para ter compatibilidade com o Chrome da Google:
+Mozilla Polyfill ---
+https://github.com/mozilla/webextension-polyfill
+
+***** Polyfill  =  SIGNIFICADO!
+Um polyfill é um pedaço de código (geralmente JavaScript na Web) usado para fornecer funcionalidades modernas em navegadores mais antigos que não o suportam nativamente.
+
+
+Obs: Esses são links que podem me ajudar em uma busca rapida para voltar e rever.
+
+................................................................
+
+Pra começar vou definir o que é uma extensão
+
+O QUE SÃO EXTENSÕES
+
+Aqui estão o link da Mozilla explicando em detalhes e exemplos:
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/What_are_WebExtensions
+
+Mas em minhas palavras...
+Uma extenção é uma ferramenta que voce pode desenvolver usando hmtl css e js.
+essas ferramentas podem ser alguma funcionalidade que ajude na experiencia de um site ou somente coletar outros dados... mas o mais importante pra mim no momento, é CONSEGUIR INTERAGIR DIRETO COM O BROWSER.
+
+posso pegar informações de quantas abas estão abertas, e salvar todos os url em uma lista para ser aberto depois, assim o navegador economiza memoria que usaria com a aba aberta porem sem esta sendo usada diretamente.
+
+todo esse estudo é para meu projeto kit-ajuda-estudante que vai esta no diretorio /projetos/ que por sua vez se encontra na raiz /meus-estudos/.
+
+alem de tentar economizar RAM (abro muitas abas), irei criar playlists para meus estudo.
+por exemplo. tem cursos de horas no youtube, em vez de deixar a aba aberta toda vez que abrir o browser, deixo uma lista com os cursos e seus links, anotações sobre o cursoe muito mais...
+
+é por isso que vim aprender sobre extensoes.
+
+criar ferramentas para o kit-ajuda-estudante, que se encotra no meu diretorio de projetos.
+
+..................................................................................
+
+	ANATOMIA DE UMA EXTENSÃO
+	
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Anatomy_of_a_WebExtension
+	
+extensao
+.
+.
+. - manifest.json
+.
+.
+. - background.js
+
+
+
+
+------------
+MANIFEST.JSON
+
+Esse arquivo é a alma da extensao, é nele que fica metadados como, seu nome, versão e outros arquivos dentro da pasta da extensao.
+
+Notas sobre as chaves manifest.json
+
+    "manifest_version","version", e "name"São as únicas chaves obrigatórias.
+    "default_locale"Deve estar presente se o "_locales"O diretório está presente, e deve estar ausente de outra forma.
+    "browser_specific_settings"não é suportado no Google Chrome.
+
+
+
+BACKGROUND.JS
+
+
+
