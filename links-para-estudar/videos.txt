@@ -1,8 +1,10 @@
 
 
+..................................................
 
+criando projeto fullstack
 
-
+https://www.youtube.com/watch?v=iOWWmfMRqs0
 
 ..................................................
 
@@ -34,6 +36,8 @@ Curso completo de JS
 https://www.youtube.com/watch?v=EerdGm-ehJQ
 
 https://www.youtube.com/watch?v=lfmg-EJ8gm4
+
+https://www.youtube.com/watch?v=E3XxeE7NF30
 
 .........................................................
 

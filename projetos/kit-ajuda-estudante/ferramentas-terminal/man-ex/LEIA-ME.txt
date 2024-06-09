@@ -1,0 +1,31 @@
+		..........BEM VINDO AO DIRETORIO /FERRAMENTAS-TERMINAL/MAN-EX ..........
+
+Esse arquivos descreve os objetivos desse diretorios e seus sub-diretorios.
+Dentro de todo sub-diretorio deverá ter um documento, (normalmente com nome de LEIA-ME.txt)
+que tambem descreve sobre o proprio diretorio e seus sub-diretorios
+
+Toda alteração feita no diretorio como adicionar ou remover documentos ou diretorios, devem
+ser documentado nesse arquivo LEIA-ME.txt.
+Deverá acrescentar no fluxo da pasta, adicionar os diretorios adicionados.
+
+
+Esse Diretório é sobre meus O PROJETO MAN-EX, aqui é possivel navegar entre os diretorios:
+ 
+ //
+ 
+ ........................
+ 
+ EXPLICANDO OS DIRETORIOS
+ 
+// - Esse diretorio é sobre é a ideia do projeto man-ex.
+
+ .................................
+
+ O objetivo do projeto é criar e documentar o processo e o projeto.
+
+ man-ex é um projeto para ajudar os iniciantes a usar o terminal quase 100% do tempo.
+
+ em vez de ir ao browser e pesquisar exemplos de usos, dos comando, a ideia é que o man-ex tenha o mais diversos exemplos possiveis de comandos e ate combinações de comandos.
+
+ assim como o comando man é para mostrar o manual, o comando man-ex é para ser um MANual com EXemplos.
+ 

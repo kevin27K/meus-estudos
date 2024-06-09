@@ -1,0 +1,22 @@
+		..........BEM VINDO AO DIRETORIO /KIT-AJUDA-ESTUDANTE/FERRAMENTAS-TERMINAL/ ..........
+
+Esse arquivos descreve os objetivos desse diretorios e seus sub-diretorios.
+Dentro de todo sub-diretorio deverá ter um documento, (normalmente com nome de LEIA-ME.txt)
+que tambem descreve sobre o proprio diretorio e seus sub-diretorios
+
+Toda alteração feita no diretorio como adicionar ou remover documentos ou diretorios, devem
+ser documentado nesse arquivo LEIA-ME.txt.
+Deverá acrescentar no fluxo da pasta, adicionar os diretorios adicionados.
+
+
+Esse Diretório é sobre meus O PROJETO KIT-AJUDA-ESTUDANTE, aqui é possivel navegar entre os diretorios:
+ 
+ //
+ 
+ ........................
+ 
+ EXPLICANDO OS DIRETORIOS
+ 
+// - Esse diretorio é sobre 
+
+ .................................

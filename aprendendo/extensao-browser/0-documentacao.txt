@@ -65,10 +65,9 @@ extensao
 .
 .
 . - background.js
-
-
-
-
+.
+.
+. - 
 ------------
 MANIFEST.JSON
 
@@ -80,9 +79,21 @@ Notas sobre as chaves manifest.json
     "default_locale"Deve estar presente se o "_locales"O diretório está presente, e deve estar ausente de outra forma.
     "browser_specific_settings"não é suportado no Google Chrome.
 
-
-
+exemplo
+{
+  "manifest_version": 2,
+  "name": "Quicknote",
+  "version": "1.1",
+  
+  "description": "Exemplo de um manisfest.json",
+  }
+-  - - - - - - - - - - - - - - -
+--------------
 BACKGROUND.JS
+
+
+
+
 
 
 
