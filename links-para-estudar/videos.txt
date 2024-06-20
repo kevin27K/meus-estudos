@@ -1,5 +1,35 @@
 
 
+
+.............................................................................................
+
+https://www.youtube.com/watch?v=IsnXLq7_y8U&list=PLAp37wMSBouCBS51KUcd_yNBOzSd4Rby4&index=3
+
+Instalação da placa-mãe e painel fronta do gabinete - Aula 03
+
+..................................................................
+
+https://www.youtube.com/watch?v=VWYx4nLcQSE&list=PLiDUsB0gpMkv53FMX89Uwy1R3CyK51zH5
+
+Aula 10 - Corrente elétrica: como funciona? (eletrônica básica)
+...........................................................
+
+https://www.youtube.com/watch?v=WS-ACUEr0FU
+
+Coding for Hackers Course: Develop Your Skills in Website Security
+
+.............................................................
+
+https://www.youtube.com/watch?v=EjHCteafXQ8&t=94s
+
+Beginner to expert Linux - Homelab work - Working on skills to get into systems engineering roles.
+
+..................................................
+
+https://www.youtube.com/watch?v=gntyAFoZp-E
+
+C++ Network Programming Part 1: Sockets
+
 ..................................................
 
 criando projeto fullstack
@@ -247,6 +277,7 @@ criando um aplicativo com tela de gerenciamento de tarefas
 
  https://www.youtube.com/watch?v=xf2W1wZozbk
 
+https://www.youtube.com/watch?v=2HrYIl6GpYg
  ...............................................
 
  Videos para ver:

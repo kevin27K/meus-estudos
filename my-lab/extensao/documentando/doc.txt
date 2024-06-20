@@ -1,0 +1,47 @@
+Estou usando a documentação da mozilla com base de estudos.
+
+https://developer.mozilla.org/pt-BR/docs/Mozilla/Add-ons/WebExtensions
+
+uma extensão é constituida basicamente da seguinte estrutura de arquivos:
+
+my-extension/
+├── manifest.json
+├── background.js
+├── content.js
+├── popup/
+│   ├── popup.html
+│   ├── popup.js
+│   └── popup.css
+├── icons/
+│   ├── icon-16.png
+│   ├── icon-48.png
+│   └── icon-128.png
+└── _locales/
+    └── en/
+        └── messages.json
+
+
+                    MANIFEST.JSON
+
+o arquivo mais importante é o manifest.json.
+
+nesse arquivo é onde fica os metados da extensão como nome, versão, e permissoes necessarias.
+
+O manifest.json fica na raiz da extensão.
+
+
+                    BACKGROUND
+
+Background scripts são carregados assim que a extensão tem sua carga concluída, e permanecem carregados até que ela seja desativada ou desinstalada. No script você pode fazer uso de qualquer uma das WbExtensions APIs.
+
+atravez de background.js é onde posso fazer uso das api's do WebExtensions.
+
+Os background scripts não possuem acesso direto às páginas web. No entanto, eles podem carregar scripts de conteúdo na página, e podem se comunicar com os scripts de conteúdo usando uma API de envio de mensagens.
+
+
+                    CONTENT.JS
+
+Use os scripts de conteúdo para acessar e manipular páginas web. Scripts de conteúdo são carregados dentro das páginas web e executados em um contexto particular nessa página.
+Eles podem ver e manipular páginas DOM.
+
+Scripts de conteúdo não podem acessar diretamente os scripts normais da página, mas podem trocar mensagens com eles através do uso da API window.postMessage.
